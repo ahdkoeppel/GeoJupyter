@@ -4,7 +4,7 @@ version: 1
 project:
   title: "Ari's GeoJupyter Notebook Page"
   description: "Page hosting portfolio of GeoJupyter Apps"
-  github: "ahdkoeppel/workshop-csdms2025-exercises"
+  #github: "ahdkoeppel"
   license: "MIT"
   jupyter:  # Enable computation
     lite: true
